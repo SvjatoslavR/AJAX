@@ -6,9 +6,12 @@ namespace AdvancedAjax.Controllers
     {
         private readonly AppDbContext _context;
 
-        public CustomerController(AppDbContext context)
+        private readonly IWebHostEnvironment _webHost;
+
+        public CustomerController(AppDbContext context, IWebHostEnvironment webHost)
         {
             _context = context;
+            _webHost = webHost;
         }
 
         public IActionResult Index()
@@ -30,6 +33,13 @@ namespace AdvancedAjax.Controllers
         [HttpPost]
         public IActionResult Create(Customer customer)
         {
+
+
+            string uniqueFileName = GetProfilePhotoFileName(customer);
+            customer.PhotoUrl = uniqueFileName;
+
+
+
             _context.Add(customer);
             _context.SaveChanges();
             return RedirectToAction(nameof(Index));
@@ -102,6 +112,44 @@ namespace AdvancedAjax.Controllers
 
             return lstCountries;
         }
+
+
+        [HttpGet]
+        public JsonResult GetCitiesByCountry(int countryId)
+        {
+
+            List<SelectListItem> cities = _context.Cities
+              .Where(c => c.CountryId == countryId)
+              .OrderBy(n => n.Name)
+              .Select(n =>
+              new SelectListItem
+              {
+                  Value = n.Id.ToString(),
+                  Text = n.Name
+              }).ToList();
+
+            return Json(cities);
+
+        }
+
+
+        private string GetProfilePhotoFileName(Customer customer)
+        {
+            string uniqueFileName = null;
+
+            if (customer.ProfilePhoto != null)
+            {
+                string uploadsFolder = Path.Combine(_webHost.WebRootPath, "images");
+                uniqueFileName = Guid.NewGuid().ToString() + "_" + customer.ProfilePhoto.FileName;
+                string filePath = Path.Combine(uploadsFolder, uniqueFileName);
+                using (var fileStream = new FileStream(filePath, FileMode.Create))
+                {
+                    customer.ProfilePhoto.CopyTo(fileStream);
+                }
+            }
+            return uniqueFileName;
+        }
+
 
     }
 }
