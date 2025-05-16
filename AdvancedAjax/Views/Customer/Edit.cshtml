@@ -32,7 +32,11 @@
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Create" enctype="multipart/form-data">
+        <form asp-action="Edit" enctype="multipart/form-data">
+
+            <input type="hidden" asp-for="Id" />
+
+
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="FirstName" class="control-label"></label>
@@ -52,7 +56,7 @@
 
             <div class="form-group">
                 <label asp-for="CountryId" class="control-label"></label>
-                <select asp-for="CountryId" class="form-control" asp-items="ViewBag.Countries"></select>
+                <select asp-for="CountryId" class="form-control" asp-items="ViewBag.Countries" onchange="FillCities(this)"></select>
             </div>
 
 
@@ -67,7 +71,7 @@
 
                     <label asp-for="ProfilePhoto" class="control-label"></label>
 
-                    <img id="PreviewPhoto" src="~/images/noimage.png" alt="Logo Image"
+                    <img id="PreviewPhoto" src="~/Images/@Model.PhotoUrl" alt="Logo Image"
                          width="125" height="125" />
 
                     <span asp-validation-for="PhotoUrl" class="text-danger"></span>
@@ -88,13 +92,13 @@
 
 
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Edit" class="btn btn-primary" />
             </div>
 
 
             <div class="form-group pt-0 mt-0">
                 <div ID="HiddenDiv" style="visibility: hidden;">
-                    <input asp-for="PhotoUrl" id="PhotoUrl" value="" />
+                    <input asp-for="PhotoUrl" id="PhotoUrl" />
                 </div>
             </div>
         </form>
@@ -107,6 +111,51 @@
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+    <script type="text/javascript">
+         function FillCities(lstCountryCtrl,lstCityId)
+           {
+                    var lstCities = $("#"+lstCityId);
+                    lstCities.empty();
+
+                    lstCities.append($('<option/>',
+                       {
+                       value: null,
+                       text: "Select City"
+                       }));
+
+                        var selectedCountry = lstCountryCtrl.options[lstCountryCtrl.selectedIndex].value;
+
+                        if (selectedCountry != null &&	selectedCountry != '')
+                        {
+                            $.getJSON('@Url.Action("GetCitiesByCountry")', { countryId: selectedCountry }, function (cities)
+                            {
+                                    if (cities != null && !jQuery.isEmptyObject(cities))
+                                    {
+                                          $.each(cities, function (index,city)
+                                            {
+                                                lstCities.append($('<option/>',
+                                                {
+                                                    value: city.value,
+                                                    text: city.text
+                                                }));
+                                            });
+                                    };
+                            });
+                        }
+            return;
+        }
+
+
+                $(".custom-file-input").on("change", function () {
+
+                var fileName = $(this).val().split("\\").pop();
+
+                document.getElementById('PreviewPhoto').src = window.URL.createObjectURL(this.files[0]);
+
+                document.getElementById('PhotoUrl').value = fileName;
+
+        });
 
 
     </script>

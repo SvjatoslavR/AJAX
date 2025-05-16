@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\advancedajax\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\advancedajax\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\advancedajax\\views\\country\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\country\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\advancedajax\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\advancedajax\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\advancedajax\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\advancedajax\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -41,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\advancedajax\\views\\country\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\country\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\advancedajax\\views\\country\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\country\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\advancedajax\\migrations\\20250516094216_removeonlinecascade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,54 +118,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Edit.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T10:14:20.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-16T10:12:13.229Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\Customer\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Create.cshtml",
               "ToolTip": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\Customer\\Create.cshtml",
               "RelativeToolTip": "Views\\Customer\\Create.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-16T09:56:59.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\Customer\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\Customer\\Index.cshtml",
-              "RelativeToolTip": "Views\\Customer\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T09:55:04.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
               "ToolTip": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwE8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T09:53:02.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "CityController.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Controllers\\CityController.cs",
               "RelativeDocumentMoniker": "Controllers\\CityController.cs",
@@ -169,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -177,12 +198,36 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAwCIAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T07:14:41.665Z",
+              "WhenOpened": "2025-05-16T07:14:41.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\Country\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Country\\Details.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\Country\\Details.cshtml",
+              "RelativeToolTip": "Views\\Country\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T07:10:47.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T09:55:04.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "20250516095132_AddCustomerTable.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Migrations\\20250516095132_AddCustomerTable.cs",
               "RelativeDocumentMoniker": "Migrations\\20250516095132_AddCustomerTable.cs",
@@ -190,12 +235,11 @@
               "RelativeToolTip": "Migrations\\20250516095132_AddCustomerTable.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T09:51:32.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T09:51:32.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\City\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\City\\Index.cshtml",
@@ -207,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Models\\Customer.cs",
@@ -219,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "CountryController.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Controllers\\CountryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
@@ -231,19 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\Country\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Country\\Details.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\Country\\Details.cshtml",
-              "RelativeToolTip": "Views\\Country\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T07:10:47.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -255,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\City\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\City\\Create.cshtml",
@@ -267,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\Country\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Country\\Delete.cshtml",
@@ -279,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\City\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\City\\Edit.cshtml",
@@ -291,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\City\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\City\\Details.cshtml",
@@ -303,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "20250516094216_RemoveOnlineCascade.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Migrations\\20250516094216_RemoveOnlineCascade.cs",
               "RelativeDocumentMoniker": "Migrations\\20250516094216_RemoveOnlineCascade.cs",
@@ -315,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\City\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\City\\Delete.cshtml",
@@ -327,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "20250516064313_CreateDb.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Migrations\\20250516064313_CreateDb.cs",
               "RelativeDocumentMoniker": "Migrations\\20250516064313_CreateDb.cs",
@@ -339,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -351,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -363,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\Country\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Country\\Index.cshtml",
@@ -375,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\Country\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Country\\Create.cshtml",
@@ -387,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Views\\Country\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Country\\Edit.cshtml",
@@ -399,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Models\\City.cs",
               "RelativeDocumentMoniker": "Models\\City.cs",
@@ -411,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Country.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AdvancedAjax\\Models\\Country.cs",
               "RelativeDocumentMoniker": "Models\\Country.cs",
