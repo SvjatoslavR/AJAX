@@ -1,8 +1,6 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace AdvancedAjax.Models
+﻿namespace AdvancedAjax.Models
 {
-    public class Country
+    public class City
     {
         [Key]
         public int Id { get; set; }
@@ -15,9 +13,9 @@ namespace AdvancedAjax.Models
         [MaxLength(75)]
         public string Name { get; set; }
 
-        [MaxLength(75)]
-        public string CurrencyName { get; set; } = "";
+        [ForeignKey("Country")]
+        public int CountryId { get; set; }
 
-
+        public virtual Country Country { get; set; }
     }
 }
