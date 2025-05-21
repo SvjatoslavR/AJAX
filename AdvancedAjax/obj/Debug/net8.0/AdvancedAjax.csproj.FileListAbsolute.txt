@@ -570,3 +570,4 @@ D:\S-R-main\AJAX\AdvancedAjax\obj\Debug\net8.0\refint\AdvancedAjax.dll
 D:\S-R-main\AJAX\AdvancedAjax\obj\Debug\net8.0\AdvancedAjax.pdb
 D:\S-R-main\AJAX\AdvancedAjax\obj\Debug\net8.0\AdvancedAjax.genruntimeconfig.cache
 D:\S-R-main\AJAX\AdvancedAjax\obj\Debug\net8.0\ref\AdvancedAjax.dll
+D:\S-R-main\AJAX\AdvancedAjax\bin\Debug\net8.0\libman.json
