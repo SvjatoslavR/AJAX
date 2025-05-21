@@ -17,93 +17,101 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AdvancedAjax
 build_property.RootNamespace = AdvancedAjax
-build_property.ProjectDir = C:\Users\opilane\source\repos\AdvancedAjax\
+build_property.ProjectDir = D:\S-R-main\AJAX\AdvancedAjax\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\opilane\source\repos\AdvancedAjax
+build_property.MSBuildProjectDirectory = D:\S-R-main\AJAX\AdvancedAjax
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/City/Create.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/City/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/City/Delete.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/City/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/City/Details.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/City/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/City/Edit.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/City/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/City/Index.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/City/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/Country/Create.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/Country/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/Country/Delete.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/Country/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/Country/Details.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/Country/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/Country/Edit.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/Country/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/Country/Index.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/Country/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/Customer/Create.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/Customer/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/Customer/Edit.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/Customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/S-R-main/AJAX/AdvancedAjax/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/S-R-main/AJAX/AdvancedAjax/Views/Customer/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/Customer/Index.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/Customer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/Home/Index.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/Home/Privacy.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/Shared/Error.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/_ViewImports.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/_ViewStart.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/opilane/source/repos/AdvancedAjax/Views/Shared/_Layout.cshtml]
+[D:/S-R-main/AJAX/AdvancedAjax/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-sw7celtxcr
