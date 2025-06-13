@@ -4,7 +4,6 @@
     ViewData["Title"] = "Create";
 }
 
-
 <style>
 
     .custom-file-button input[type=file] {
@@ -23,7 +22,6 @@
         background-color: #dde0e3;
         cursor: pointer;
     }
-
 </style>
 
 <h1>Create</h1>
@@ -52,29 +50,30 @@
 
 
             <div class="form-group btn-group col-12">
-            <div class="col-11">
-                <label asp-for="CountryId" class="control-label"></label>
-                <select id="lstCountryId" asp-for="CountryId" class="form-control" asp-items="ViewBag.Countries" onchange="FillCities(this,'lstCity"> </select>
-            </div>
-
-            <div class="col-1 mt-4">
-                <button class="btn btn-success" onclick="ShowCountryCreateModal();">
-                    +
-                </button>
-            </div>
+                <div class="col-11">
+                    <label asp-for="CountryId" class="control-label"></label>
+                    <select id="lstCountryId" asp-for="CountryId" class="form-control" asp-items="ViewBag.Countries"
+                            onchange="FillCities(this,'lstCity');"></select>
+                </div>
+                <div class="col-1 mt-4">
+                    <button class="btn btn-success" onclick="ShowCountryCreateModal();">
+                        +
+                    </button>
+                </div>
             </div>
 
             <div class="form-group btn-group col-12">
-            <div class="col-11">
-                <label asp-for="CityId" class="control-label"></label>
-                <select id="lstCity" asp-for="CityId" class ="form-control" asp-items="ViewBag.Cities"></select>
+                <div class="col-11">
+                    <label asp-for="CityId" class="control-label"></label>
+                    <select id="lstCity" asp-for="CityId" class="form-control" asp-items="ViewBag.Cities"></select>
+                </div>
+                <div class="col-1 mt-4">
+                    <button class="btn btn-success" onclick="ShowCityCreateModal();">
+                        +
+                    </button>
+                </div>
             </div>
-            <div class="col-1 mt-4">
-                <button class="btn btn-success" onclick="ShowCityCreateModal();">
-                    +
-                </button>
-            </div>
-            </div>
+
 
 
             <div class="col-md-12 btn-group pb-2">
@@ -102,11 +101,9 @@
 
             </div>
 
-
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
-
 
             <div class="form-group pt-0 mt-0">
                 <div ID="HiddenDiv" style="visibility: hidden;">
@@ -122,24 +119,25 @@
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
     <script type="text/javascript">
 
-
-        function ShowCountryCreateModal() {
-           $.ajax( {
-           url: "/country/CreateModalForm",
-           type:'get',
-           success: function (response) {
-               $("#DivCreateDialog").html(response);
-               ShowCreateModalForm();
-           }
-           });
-           return;
+        function ShowCountryCreateMadl() {
+            $.ajax(
+                {
+                    url: "/country/CreateModalForm",
+                    type: 'get',
+                    success: function (response) {
+                        $("#DivCreateDialog".html(reponse));
+                        ShowCreateModalForm();
+                    }
+                });
         }
 
 
-    </script>
 
+
+    </script>
 }
