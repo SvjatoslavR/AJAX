@@ -1,28 +1,28 @@
 {
   "Version": 1,
-  "Hash": "WYMNHpQIk3mPD7cnqWyENP3vWB5FEeyA/iHweq+wNV0=",
-  "Source": "AdvancedAjax",
-  "BasePath": "_content/AdvancedAjax",
+  "Hash": "DLgLOFV8QRNFZrzjhIgCsaVJjhYXkzOM08KU1ByZm+4=",
+  "Source": "AjaxProject",
+  "BasePath": "_content/AjaxProject",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "AdvancedAjax\\wwwroot",
-      "Source": "AdvancedAjax",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "Name": "AjaxProject\\wwwroot",
+      "Source": "AjaxProject",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AdvancedAjax.styles.css",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AjaxProject.styles.css",
+      "SourceId": "AjaxProject",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/AdvancedAjax",
-      "RelativePath": "AdvancedAjax#[.{fingerprint}]?.styles.css",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/AjaxProject",
+      "RelativePath": "AjaxProject#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -31,19 +31,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "l03bz18is4",
-      "Integrity": "BYuIQjT6gIkajkVg3irvtf46Na2nvyZfjQe1sAMCyt0=",
+      "Fingerprint": "fbhxkoz3lz",
+      "Integrity": "FUZdvRfbAUqv3yGLxVHsX4656I+S+xN9N0WKTgFRAWs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AdvancedAjax.styles.css"
+      "OriginalItemSpec": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AjaxProject.styles.css"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AdvancedAjax.bundle.scp.css",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AjaxProject.bundle.scp.css",
+      "SourceId": "AjaxProject",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/AdvancedAjax",
-      "RelativePath": "AdvancedAjax#[.{fingerprint}]!.bundle.scp.css",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/AjaxProject",
+      "RelativePath": "AjaxProject#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -52,18 +52,18 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "l03bz18is4",
-      "Integrity": "BYuIQjT6gIkajkVg3irvtf46Na2nvyZfjQe1sAMCyt0=",
+      "Fingerprint": "fbhxkoz3lz",
+      "Integrity": "FUZdvRfbAUqv3yGLxVHsX4656I+S+xN9N0WKTgFRAWs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AdvancedAjax.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AjaxProject.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\css\\site.css",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\css\\site.css",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -80,11 +80,11 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\favicon.ico",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\favicon.ico",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -101,12 +101,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\Images\\38bd8754-4260-4ed6-bd49-ce55604803ef_cat.jpg",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\058dc56d-d5d4-4d47-9c7e-37a73dc8c109_rocinante.jfif",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
-      "RelativePath": "Images/38bd8754-4260-4ed6-bd49-ce55604803ef_cat#[.{fingerprint}]?.jpg",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
+      "RelativePath": "Images/058dc56d-d5d4-4d47-9c7e-37a73dc8c109_rocinante#[.{fingerprint}]?.jfif",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -115,18 +115,102 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qbjj3t1b75",
-      "Integrity": "atAZ4oPtGp79zVpXCPBCZPOzWWQLW4JEsCgUq5+jdzQ=",
+      "Fingerprint": "kw5w9sprye",
+      "Integrity": "HDEVzWvK3eqotIImsrHsAXACTi8WpwTYahqpjk7qXrY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\38bd8754-4260-4ed6-bd49-ce55604803ef_cat.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\058dc56d-d5d4-4d47-9c7e-37a73dc8c109_rocinante.jfif"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\Images\\noimage.png",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\073b59d4-30cc-48bf-b45a-493e73652772_ScipioAfricanus.jpg",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
+      "RelativePath": "Images/073b59d4-30cc-48bf-b45a-493e73652772_ScipioAfricanus#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qpczish7mv",
+      "Integrity": "Hj2GuzV9a2Rmah5q/Kh3u9MR1PKHQ8I/K3Ki/iNOowY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\073b59d4-30cc-48bf-b45a-493e73652772_ScipioAfricanus.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\9fa29eb0-90eb-4cb8-81ca-ecf4e7a4a2d9_noimage.png",
+      "SourceId": "AjaxProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
+      "RelativePath": "Images/9fa29eb0-90eb-4cb8-81ca-ecf4e7a4a2d9_noimage#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yg2ju2epnf",
+      "Integrity": "QtkNR+Uw0XE0huOJ4APm+xy8SIOLtaI8b/gNb51gwfE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\9fa29eb0-90eb-4cb8-81ca-ecf4e7a4a2d9_noimage.png"
+    },
+    {
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\f157c8ba-38e5-44d6-b2c8-06ff46a6d53f_noimage.png",
+      "SourceId": "AjaxProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
+      "RelativePath": "Images/f157c8ba-38e5-44d6-b2c8-06ff46a6d53f_noimage#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yg2ju2epnf",
+      "Integrity": "QtkNR+Uw0XE0huOJ4APm+xy8SIOLtaI8b/gNb51gwfE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\f157c8ba-38e5-44d6-b2c8-06ff46a6d53f_noimage.png"
+    },
+    {
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\f3dcb011-3b36-4e86-bcdb-9a294f2e8ea3_noimage.png",
+      "SourceId": "AjaxProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
+      "RelativePath": "Images/f3dcb011-3b36-4e86-bcdb-9a294f2e8ea3_noimage#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yg2ju2epnf",
+      "Integrity": "QtkNR+Uw0XE0huOJ4APm+xy8SIOLtaI8b/gNb51gwfE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\f3dcb011-3b36-4e86-bcdb-9a294f2e8ea3_noimage.png"
+    },
+    {
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\noimage.png",
+      "SourceId": "AjaxProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "Images/noimage#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -143,11 +227,11 @@
       "OriginalItemSpec": "wwwroot\\Images\\noimage.png"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\js\\site.js",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\js\\site.js",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -157,18 +241,18 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "r05e8b2lyt",
-      "Integrity": "64SLkx5SdAQ2MaWU4UPitmEjK/+XIlmsnUq8PlHuI6w=",
+      "Fingerprint": "n3cj0d7ond",
+      "Integrity": "A4gyTSUqJp5/jtdCl+lx3oKoDT4q5pgAlOtHJfNzD1k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -185,11 +269,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -206,11 +290,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -227,11 +311,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -248,11 +332,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -269,11 +353,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -290,11 +374,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -311,11 +395,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -332,11 +416,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -353,11 +437,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -374,11 +458,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -395,11 +479,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -416,11 +500,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -437,11 +521,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -458,11 +542,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -479,11 +563,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -500,11 +584,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -521,11 +605,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -542,11 +626,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -563,11 +647,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -584,11 +668,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -605,11 +689,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -626,11 +710,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -647,11 +731,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -668,11 +752,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -689,11 +773,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -710,11 +794,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -731,11 +815,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -752,11 +836,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -773,11 +857,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -794,11 +878,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -815,11 +899,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -836,11 +920,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -857,11 +941,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -878,11 +962,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -899,11 +983,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -920,11 +1004,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -941,11 +1025,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -962,11 +1046,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -983,11 +1067,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1004,11 +1088,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1025,11 +1109,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1046,11 +1130,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1067,11 +1151,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1088,11 +1172,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1109,11 +1193,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1130,11 +1214,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1151,11 +1235,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1172,11 +1256,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1193,11 +1277,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1214,11 +1298,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1235,11 +1319,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1256,11 +1340,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1277,11 +1361,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1298,11 +1382,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1319,11 +1403,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1340,11 +1424,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1361,11 +1445,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1382,11 +1466,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "AdvancedAjax",
+      "Identity": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "AjaxProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\",
-      "BasePath": "_content/AdvancedAjax",
+      "ContentRoot": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\",
+      "BasePath": "_content/AjaxProject",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1405,8 +1489,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "AdvancedAjax.bundle.scp.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AdvancedAjax.bundle.scp.css",
+      "Route": "AjaxProject.bundle.scp.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AjaxProject.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1415,7 +1499,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1130"
+          "Value": "1129"
         },
         {
           "Name": "Content-Type",
@@ -1423,11 +1507,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BYuIQjT6gIkajkVg3irvtf46Na2nvyZfjQe1sAMCyt0=\""
+          "Value": "\"FUZdvRfbAUqv3yGLxVHsX4656I+S+xN9N0WKTgFRAWs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:51 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1437,13 +1521,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BYuIQjT6gIkajkVg3irvtf46Na2nvyZfjQe1sAMCyt0="
+          "Value": "sha256-FUZdvRfbAUqv3yGLxVHsX4656I+S+xN9N0WKTgFRAWs="
         }
       ]
     },
     {
-      "Route": "AdvancedAjax.l03bz18is4.bundle.scp.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AdvancedAjax.bundle.scp.css",
+      "Route": "AjaxProject.fbhxkoz3lz.bundle.scp.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AjaxProject.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1452,7 +1536,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1130"
+          "Value": "1129"
         },
         {
           "Name": "Content-Type",
@@ -1460,11 +1544,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BYuIQjT6gIkajkVg3irvtf46Na2nvyZfjQe1sAMCyt0=\""
+          "Value": "\"FUZdvRfbAUqv3yGLxVHsX4656I+S+xN9N0WKTgFRAWs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:51 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1474,21 +1558,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "l03bz18is4"
+          "Value": "fbhxkoz3lz"
         },
         {
           "Name": "label",
-          "Value": "AdvancedAjax.bundle.scp.css"
+          "Value": "AjaxProject.bundle.scp.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BYuIQjT6gIkajkVg3irvtf46Na2nvyZfjQe1sAMCyt0="
+          "Value": "sha256-FUZdvRfbAUqv3yGLxVHsX4656I+S+xN9N0WKTgFRAWs="
         }
       ]
     },
     {
-      "Route": "AdvancedAjax.l03bz18is4.styles.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AdvancedAjax.styles.css",
+      "Route": "AjaxProject.fbhxkoz3lz.styles.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AjaxProject.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1497,7 +1581,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1130"
+          "Value": "1129"
         },
         {
           "Name": "Content-Type",
@@ -1505,11 +1589,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BYuIQjT6gIkajkVg3irvtf46Na2nvyZfjQe1sAMCyt0=\""
+          "Value": "\"FUZdvRfbAUqv3yGLxVHsX4656I+S+xN9N0WKTgFRAWs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:51 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1519,21 +1603,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "l03bz18is4"
+          "Value": "fbhxkoz3lz"
         },
         {
           "Name": "label",
-          "Value": "AdvancedAjax.styles.css"
+          "Value": "AjaxProject.styles.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BYuIQjT6gIkajkVg3irvtf46Na2nvyZfjQe1sAMCyt0="
+          "Value": "sha256-FUZdvRfbAUqv3yGLxVHsX4656I+S+xN9N0WKTgFRAWs="
         }
       ]
     },
     {
-      "Route": "AdvancedAjax.styles.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AdvancedAjax.styles.css",
+      "Route": "AjaxProject.styles.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AjaxProject.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1542,7 +1626,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1130"
+          "Value": "1129"
         },
         {
           "Name": "Content-Type",
@@ -1550,11 +1634,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BYuIQjT6gIkajkVg3irvtf46Na2nvyZfjQe1sAMCyt0=\""
+          "Value": "\"FUZdvRfbAUqv3yGLxVHsX4656I+S+xN9N0WKTgFRAWs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:51 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1564,13 +1648,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BYuIQjT6gIkajkVg3irvtf46Na2nvyZfjQe1sAMCyt0="
+          "Value": "sha256-FUZdvRfbAUqv3yGLxVHsX4656I+S+xN9N0WKTgFRAWs="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1591,7 +1675,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1607,7 +1691,7 @@
     },
     {
       "Route": "css/site.fosamezn9b.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1628,7 +1712,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1652,7 +1736,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1673,7 +1757,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1697,7 +1781,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1718,7 +1802,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1733,8 +1817,8 @@
       ]
     },
     {
-      "Route": "Images/38bd8754-4260-4ed6-bd49-ce55604803ef_cat.jpg",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\Images\\38bd8754-4260-4ed6-bd49-ce55604803ef_cat.jpg",
+      "Route": "Images/058dc56d-d5d4-4d47-9c7e-37a73dc8c109_rocinante.jfif",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\058dc56d-d5d4-4d47-9c7e-37a73dc8c109_rocinante.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1743,19 +1827,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28568"
+          "Value": "33916"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/pjpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"atAZ4oPtGp79zVpXCPBCZPOzWWQLW4JEsCgUq5+jdzQ=\""
+          "Value": "\"HDEVzWvK3eqotIImsrHsAXACTi8WpwTYahqpjk7qXrY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 08:16:01 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1765,13 +1849,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-atAZ4oPtGp79zVpXCPBCZPOzWWQLW4JEsCgUq5+jdzQ="
+          "Value": "sha256-HDEVzWvK3eqotIImsrHsAXACTi8WpwTYahqpjk7qXrY="
         }
       ]
     },
     {
-      "Route": "Images/38bd8754-4260-4ed6-bd49-ce55604803ef_cat.qbjj3t1b75.jpg",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\Images\\38bd8754-4260-4ed6-bd49-ce55604803ef_cat.jpg",
+      "Route": "Images/058dc56d-d5d4-4d47-9c7e-37a73dc8c109_rocinante.kw5w9sprye.jfif",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\058dc56d-d5d4-4d47-9c7e-37a73dc8c109_rocinante.jfif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1780,19 +1864,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "28568"
+          "Value": "33916"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/pjpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"atAZ4oPtGp79zVpXCPBCZPOzWWQLW4JEsCgUq5+jdzQ=\""
+          "Value": "\"HDEVzWvK3eqotIImsrHsAXACTi8WpwTYahqpjk7qXrY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 08:16:01 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1802,21 +1886,103 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qbjj3t1b75"
+          "Value": "kw5w9sprye"
         },
         {
           "Name": "label",
-          "Value": "Images/38bd8754-4260-4ed6-bd49-ce55604803ef_cat.jpg"
+          "Value": "Images/058dc56d-d5d4-4d47-9c7e-37a73dc8c109_rocinante.jfif"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-atAZ4oPtGp79zVpXCPBCZPOzWWQLW4JEsCgUq5+jdzQ="
+          "Value": "sha256-HDEVzWvK3eqotIImsrHsAXACTi8WpwTYahqpjk7qXrY="
         }
       ]
     },
     {
-      "Route": "Images/noimage.png",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\Images\\noimage.png",
+      "Route": "Images/073b59d4-30cc-48bf-b45a-493e73652772_ScipioAfricanus.jpg",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\073b59d4-30cc-48bf-b45a-493e73652772_ScipioAfricanus.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hj2GuzV9a2Rmah5q/Kh3u9MR1PKHQ8I/K3Ki/iNOowY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hj2GuzV9a2Rmah5q/Kh3u9MR1PKHQ8I/K3Ki/iNOowY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/073b59d4-30cc-48bf-b45a-493e73652772_ScipioAfricanus.qpczish7mv.jpg",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\073b59d4-30cc-48bf-b45a-493e73652772_ScipioAfricanus.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hj2GuzV9a2Rmah5q/Kh3u9MR1PKHQ8I/K3Ki/iNOowY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qpczish7mv"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/073b59d4-30cc-48bf-b45a-493e73652772_ScipioAfricanus.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hj2GuzV9a2Rmah5q/Kh3u9MR1PKHQ8I/K3Ki/iNOowY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/9fa29eb0-90eb-4cb8-81ca-ecf4e7a4a2d9_noimage.png",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\9fa29eb0-90eb-4cb8-81ca-ecf4e7a4a2d9_noimage.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1837,7 +2003,253 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QtkNR+Uw0XE0huOJ4APm+xy8SIOLtaI8b/gNb51gwfE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/9fa29eb0-90eb-4cb8-81ca-ecf4e7a4a2d9_noimage.yg2ju2epnf.png",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\9fa29eb0-90eb-4cb8-81ca-ecf4e7a4a2d9_noimage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1447"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QtkNR+Uw0XE0huOJ4APm+xy8SIOLtaI8b/gNb51gwfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yg2ju2epnf"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/9fa29eb0-90eb-4cb8-81ca-ecf4e7a4a2d9_noimage.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QtkNR+Uw0XE0huOJ4APm+xy8SIOLtaI8b/gNb51gwfE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/f157c8ba-38e5-44d6-b2c8-06ff46a6d53f_noimage.png",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\f157c8ba-38e5-44d6-b2c8-06ff46a6d53f_noimage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1447"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QtkNR+Uw0XE0huOJ4APm+xy8SIOLtaI8b/gNb51gwfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QtkNR+Uw0XE0huOJ4APm+xy8SIOLtaI8b/gNb51gwfE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/f157c8ba-38e5-44d6-b2c8-06ff46a6d53f_noimage.yg2ju2epnf.png",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\f157c8ba-38e5-44d6-b2c8-06ff46a6d53f_noimage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1447"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QtkNR+Uw0XE0huOJ4APm+xy8SIOLtaI8b/gNb51gwfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yg2ju2epnf"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/f157c8ba-38e5-44d6-b2c8-06ff46a6d53f_noimage.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QtkNR+Uw0XE0huOJ4APm+xy8SIOLtaI8b/gNb51gwfE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/f3dcb011-3b36-4e86-bcdb-9a294f2e8ea3_noimage.png",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\f3dcb011-3b36-4e86-bcdb-9a294f2e8ea3_noimage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1447"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QtkNR+Uw0XE0huOJ4APm+xy8SIOLtaI8b/gNb51gwfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QtkNR+Uw0XE0huOJ4APm+xy8SIOLtaI8b/gNb51gwfE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/f3dcb011-3b36-4e86-bcdb-9a294f2e8ea3_noimage.yg2ju2epnf.png",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\f3dcb011-3b36-4e86-bcdb-9a294f2e8ea3_noimage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1447"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QtkNR+Uw0XE0huOJ4APm+xy8SIOLtaI8b/gNb51gwfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yg2ju2epnf"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/f3dcb011-3b36-4e86-bcdb-9a294f2e8ea3_noimage.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QtkNR+Uw0XE0huOJ4APm+xy8SIOLtaI8b/gNb51gwfE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/noimage.png",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\noimage.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1447"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QtkNR+Uw0XE0huOJ4APm+xy8SIOLtaI8b/gNb51gwfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1853,7 +2265,7 @@
     },
     {
       "Route": "Images/noimage.yg2ju2epnf.png",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\Images\\noimage.png",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\noimage.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1874,7 +2286,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1898,7 +2310,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1907,7 +2319,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3281"
+          "Value": "3058"
         },
         {
           "Name": "Content-Type",
@@ -1915,11 +2327,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"64SLkx5SdAQ2MaWU4UPitmEjK/+XIlmsnUq8PlHuI6w=\""
+          "Value": "\"A4gyTSUqJp5/jtdCl+lx3oKoDT4q5pgAlOtHJfNzD1k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 07:33:22 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1929,13 +2341,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-64SLkx5SdAQ2MaWU4UPitmEjK/+XIlmsnUq8PlHuI6w="
+          "Value": "sha256-A4gyTSUqJp5/jtdCl+lx3oKoDT4q5pgAlOtHJfNzD1k="
         }
       ]
     },
     {
-      "Route": "js/site.r05e8b2lyt.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\js\\site.js",
+      "Route": "js/site.n3cj0d7ond.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1944,7 +2356,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3281"
+          "Value": "3058"
         },
         {
           "Name": "Content-Type",
@@ -1952,11 +2364,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"64SLkx5SdAQ2MaWU4UPitmEjK/+XIlmsnUq8PlHuI6w=\""
+          "Value": "\"A4gyTSUqJp5/jtdCl+lx3oKoDT4q5pgAlOtHJfNzD1k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 07:33:22 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1966,7 +2378,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "r05e8b2lyt"
+          "Value": "n3cj0d7ond"
         },
         {
           "Name": "label",
@@ -1974,13 +2386,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-64SLkx5SdAQ2MaWU4UPitmEjK/+XIlmsnUq8PlHuI6w="
+          "Value": "sha256-A4gyTSUqJp5/jtdCl+lx3oKoDT4q5pgAlOtHJfNzD1k="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2001,7 +2413,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2017,7 +2429,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2038,7 +2450,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2062,7 +2474,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2083,7 +2495,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2099,7 +2511,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2120,7 +2532,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2144,7 +2556,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2165,7 +2577,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2181,7 +2593,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2202,7 +2614,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2226,7 +2638,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2247,7 +2659,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2263,7 +2675,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2284,7 +2696,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2308,7 +2720,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2329,7 +2741,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2345,7 +2757,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2366,7 +2778,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2390,7 +2802,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2411,7 +2823,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2427,7 +2839,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2448,7 +2860,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2472,7 +2884,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2493,7 +2905,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2509,7 +2921,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2530,7 +2942,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2554,7 +2966,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2575,7 +2987,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2591,7 +3003,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2612,7 +3024,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2636,7 +3048,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2657,7 +3069,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2681,7 +3093,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2702,7 +3114,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2718,7 +3130,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2739,7 +3151,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2755,7 +3167,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2776,7 +3188,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2800,7 +3212,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2821,7 +3233,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2837,7 +3249,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2858,7 +3270,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2882,7 +3294,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2903,7 +3315,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2919,7 +3331,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2940,7 +3352,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2964,7 +3376,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2985,7 +3397,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3001,7 +3413,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3022,7 +3434,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3046,7 +3458,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3067,7 +3479,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3083,7 +3495,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3104,7 +3516,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3120,7 +3532,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3141,7 +3553,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3157,7 +3569,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3178,7 +3590,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3202,7 +3614,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3223,7 +3635,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3247,7 +3659,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3268,7 +3680,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3292,7 +3704,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3313,7 +3725,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3337,7 +3749,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3358,7 +3770,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3374,7 +3786,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3395,7 +3807,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3419,7 +3831,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3440,7 +3852,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3456,7 +3868,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3477,7 +3889,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3493,7 +3905,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3514,7 +3926,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3530,7 +3942,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3551,7 +3963,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3575,7 +3987,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3596,7 +4008,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3620,7 +4032,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3641,7 +4053,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3665,7 +4077,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3686,7 +4098,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3702,7 +4114,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3723,7 +4135,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3747,7 +4159,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3768,7 +4180,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3784,7 +4196,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3805,7 +4217,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3821,7 +4233,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3842,7 +4254,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3858,7 +4270,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3879,7 +4291,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3903,7 +4315,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3924,7 +4336,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3948,7 +4360,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3969,7 +4381,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3985,7 +4397,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4006,7 +4418,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4030,7 +4442,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4051,7 +4463,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4067,7 +4479,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4088,7 +4500,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4112,7 +4524,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4133,7 +4545,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4149,7 +4561,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4170,7 +4582,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4186,7 +4598,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4207,7 +4619,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4231,7 +4643,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4252,7 +4664,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4276,7 +4688,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4297,7 +4709,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4313,7 +4725,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4334,7 +4746,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4358,7 +4770,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4379,7 +4791,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4395,7 +4807,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4416,7 +4828,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4432,7 +4844,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4453,7 +4865,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4477,7 +4889,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4498,7 +4910,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4514,7 +4926,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4535,7 +4947,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4559,7 +4971,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4580,7 +4992,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4604,7 +5016,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4625,7 +5037,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:15 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4641,7 +5053,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4662,7 +5074,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:15 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4686,7 +5098,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4707,7 +5119,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:15 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4723,7 +5135,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4744,7 +5156,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:15 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4768,7 +5180,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4789,7 +5201,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:15 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4813,7 +5225,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4834,7 +5246,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:15 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4850,7 +5262,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4871,7 +5283,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:15 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4895,7 +5307,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4916,7 +5328,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:15 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4932,7 +5344,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4953,7 +5365,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4969,7 +5381,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4990,7 +5402,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5014,7 +5426,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5035,7 +5447,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5051,7 +5463,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5072,7 +5484,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5096,7 +5508,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5117,7 +5529,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5133,7 +5545,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5154,7 +5566,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5170,7 +5582,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5191,7 +5603,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5215,7 +5627,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5236,7 +5648,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5260,7 +5672,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5281,7 +5693,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5297,7 +5709,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5318,7 +5730,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5342,7 +5754,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5363,7 +5775,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5379,7 +5791,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5400,7 +5812,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5416,7 +5828,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5437,7 +5849,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5453,7 +5865,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5474,7 +5886,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5498,7 +5910,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5519,7 +5931,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5543,7 +5955,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5564,7 +5976,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5588,7 +6000,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5609,7 +6021,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5625,7 +6037,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.z6qzljqjd0",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5646,7 +6058,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Jun 2025 00:08:38 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5670,7 +6082,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5691,7 +6103,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5715,7 +6127,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5736,7 +6148,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5752,7 +6164,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5773,7 +6185,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5797,7 +6209,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5818,7 +6230,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5842,7 +6254,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5863,7 +6275,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5879,7 +6291,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5900,7 +6312,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5916,7 +6328,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.jfsiqqwiad.txt",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5937,7 +6349,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5961,7 +6373,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5982,7 +6394,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5998,7 +6410,7 @@
     },
     {
       "Route": "lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6019,7 +6431,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6035,7 +6447,7 @@
     },
     {
       "Route": "lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min.ibapcxra5u.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6056,7 +6468,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6080,7 +6492,7 @@
     },
     {
       "Route": "lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6101,7 +6513,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6117,7 +6529,7 @@
     },
     {
       "Route": "lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.vs3qwh9hx3.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6138,7 +6550,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6162,7 +6574,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.gcjdx5jb8l.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6183,7 +6595,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6207,7 +6619,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6228,7 +6640,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6244,7 +6656,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.35gxhxa0gh.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6265,7 +6677,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6289,7 +6701,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6310,7 +6722,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6326,7 +6738,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6347,7 +6759,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6363,7 +6775,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6384,7 +6796,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6408,7 +6820,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6429,7 +6841,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6445,7 +6857,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6466,7 +6878,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6490,7 +6902,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6511,7 +6923,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6527,7 +6939,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.xzw0cte36n.md",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6548,7 +6960,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6572,7 +6984,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6593,7 +7005,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6617,7 +7029,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6638,7 +7050,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6654,7 +7066,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6675,7 +7087,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6699,7 +7111,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6720,7 +7132,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6736,7 +7148,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.l3n5xuwxn8.txt",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6757,7 +7169,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6781,7 +7193,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6802,7 +7214,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Jun 2025 06:52:16 GMT"
+          "Value": "Fri, 13 Jun 2025 10:15:41 GMT"
         },
         {
           "Name": "Cache-Control",

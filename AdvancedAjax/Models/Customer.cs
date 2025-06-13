@@ -1,4 +1,6 @@
-﻿namespace AdvancedAjax.Models
+﻿using System.ComponentModel;
+
+namespace AjaxProject.Models
 {
     public class Customer
     {

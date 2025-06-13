@@ -1,6 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AjaxProject.Data;
+using AjaxProject.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace AdvancedAjax.Controllers
+namespace AjaxProject.Controllers
 {
     public class CityController : Controller
     {
@@ -113,7 +116,6 @@ namespace AdvancedAjax.Controllers
         }
 
         [HttpGet]
-
         public IActionResult CreateModalForm(int countryId)
         {
             City city = new City();
@@ -122,7 +124,6 @@ namespace AdvancedAjax.Controllers
             return PartialView("_CreateModalForm", city);
         }
 
-       
         [HttpPost]
         public IActionResult CreateModalForm(City city)
         {
@@ -130,19 +131,18 @@ namespace AdvancedAjax.Controllers
             _context.SaveChanges();
             return NoContent();
         }
-     private string GetCountryName(int countryId)
-            {
-                if (countryId == 0)
-                
-                    return "";
-                
-                string strCountryName = _context.Countries
-                    .Where(ct => ct.Id == countryId)
-                    .Select(nm => nm.Name)
-                    .Single()
-                    .ToString();
-                return strCountryName;
 
+        private string GetCountryName(int countryId)
+        {
+            if (countryId == 0)
+                return "";
+
+            string strCountryName = _context.Countries
+                .Where(ct => ct.Id == countryId)
+                .Select(nm => nm.Name).Single().ToString();
+
+            return strCountryName;
         }
+
     }
 }

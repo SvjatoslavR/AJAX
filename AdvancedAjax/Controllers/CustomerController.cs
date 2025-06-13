@@ -1,6 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AjaxProject.Data;
+using AjaxProject.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace AdvancedAjax.Controllers
+namespace AjaxProject.Controllers
 {
     public class CustomerController : Controller
     {
@@ -34,11 +37,8 @@ namespace AdvancedAjax.Controllers
         public IActionResult Create(Customer customer)
         {
 
-
             string uniqueFileName = GetProfilePhotoFileName(customer);
             customer.PhotoUrl = uniqueFileName;
-
-
 
             _context.Add(customer);
             _context.SaveChanges();
@@ -49,11 +49,11 @@ namespace AdvancedAjax.Controllers
         [HttpGet]
         public IActionResult Details(int Id)
         {
+
             Customer customer = _context.Customers
               .Include(cty => cty.City)
               .Include(cou => cou.City.Country)
               .Where(c => c.Id == Id).FirstOrDefault();
-
 
             return View(customer);
         }
@@ -65,11 +65,11 @@ namespace AdvancedAjax.Controllers
                .Include(co => co.City)
                .Where(c => c.Id == Id).FirstOrDefault();
 
-
             customer.CountryId = customer.City.CountryId;
 
             ViewBag.Countries = GetCountries();
             ViewBag.Cities = GetCities(customer.CountryId);
+
             return View(customer);
         }
 
@@ -132,7 +132,6 @@ namespace AdvancedAjax.Controllers
             return lstCountries;
         }
 
-
         [HttpGet]
         public JsonResult GetCitiesByCountry(int countryId)
         {
@@ -150,7 +149,6 @@ namespace AdvancedAjax.Controllers
             return Json(cities);
 
         }
-
 
         private string GetProfilePhotoFileName(Customer customer)
         {

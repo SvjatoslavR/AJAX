@@ -7756,11 +7756,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\AdvancedAjax.csproj",
-      "projectName": "AdvancedAjax",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\AdvancedAjax.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\AjaxProject.csproj",
+      "projectName": "AjaxProject",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\AjaxProject.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

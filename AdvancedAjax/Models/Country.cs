@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace AdvancedAjax.Models
+namespace AjaxProject.Models
 {
     public class Country
     {
@@ -17,6 +17,7 @@ namespace AdvancedAjax.Models
 
         [MaxLength(75)]
         public string CurrencyName { get; set; } = "";
+
 
     }
 }

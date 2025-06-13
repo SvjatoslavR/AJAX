@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AdvancedAjax.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250516094216_RemoveOnlineCascade")]
-    partial class RemoveOnlineCascade
+    [Migration("20250516075540_CreateDb")]
+    partial class CreateDb
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

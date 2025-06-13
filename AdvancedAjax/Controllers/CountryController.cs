@@ -1,6 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AjaxProject.Data;
+using AjaxProject.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace AdvancedAjax.Controllers
+namespace AjaxProject.Controllers
 {
     public class CountryController : Controller
     {
@@ -126,13 +129,14 @@ namespace AdvancedAjax.Controllers
             var defItem = new SelectListItem()
             {
                 Value = "",
-                Text = "----Select Country----"
+                Text = "-----Select Country-----"
             };
 
             lstCountries.Insert(0, defItem);
 
-            return Json(lstCountries);  
+            return Json(lstCountries);
         }
+
 
 
     }

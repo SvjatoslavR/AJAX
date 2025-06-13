@@ -1,4 +1,4 @@
-﻿namespace AdvancedAjax.Models
+﻿namespace AjaxProject.Models
 {
     public class City
     {
@@ -21,6 +21,5 @@
         [NotMapped]
         [MaxLength(75)]
         public string CountryName { get; set; }
-
     }
 }

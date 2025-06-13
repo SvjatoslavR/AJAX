@@ -1,6 +1,10 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\Images\38bd8754-4260-4ed6-bd49-ce55604803ef_cat.jpg
+wwwroot\Images\058dc56d-d5d4-4d47-9c7e-37a73dc8c109_rocinante.jfif
+wwwroot\Images\073b59d4-30cc-48bf-b45a-493e73652772_ScipioAfricanus.jpg
+wwwroot\Images\9fa29eb0-90eb-4cb8-81ca-ecf4e7a4a2d9_noimage.png
+wwwroot\Images\f157c8ba-38e5-44d6-b2c8-06ff46a6d53f_noimage.png
+wwwroot\Images\f3dcb011-3b36-4e86-bcdb-9a294f2e8ea3_noimage.png
 wwwroot\Images\noimage.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

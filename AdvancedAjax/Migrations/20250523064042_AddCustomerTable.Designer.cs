@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AdvancedAjax.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250516095132_AddCustomerTable")]
+    [Migration("20250523064042_AddCustomerTable")]
     partial class AddCustomerTable
     {
         /// <inheritdoc />

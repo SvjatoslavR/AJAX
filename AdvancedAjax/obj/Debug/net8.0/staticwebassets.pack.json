@@ -1,284 +1,300 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AdvancedAjax.bundle.scp.css",
-      "PackagePath": "staticwebassets\\AdvancedAjax.l03bz18is4.bundle.scp.css"
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AjaxProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AjaxProject.fbhxkoz3lz.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\Images\\38bd8754-4260-4ed6-bd49-ce55604803ef_cat.jpg",
-      "PackagePath": "staticwebassets\\Images\\38bd8754-4260-4ed6-bd49-ce55604803ef_cat.jpg"
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\058dc56d-d5d4-4d47-9c7e-37a73dc8c109_rocinante.jfif",
+      "PackagePath": "staticwebassets\\Images\\058dc56d-d5d4-4d47-9c7e-37a73dc8c109_rocinante.jfif"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\Images\\noimage.png",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\073b59d4-30cc-48bf-b45a-493e73652772_ScipioAfricanus.jpg",
+      "PackagePath": "staticwebassets\\Images\\073b59d4-30cc-48bf-b45a-493e73652772_ScipioAfricanus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\9fa29eb0-90eb-4cb8-81ca-ecf4e7a4a2d9_noimage.png",
+      "PackagePath": "staticwebassets\\Images\\9fa29eb0-90eb-4cb8-81ca-ecf4e7a4a2d9_noimage.png"
+    },
+    {
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\f157c8ba-38e5-44d6-b2c8-06ff46a6d53f_noimage.png",
+      "PackagePath": "staticwebassets\\Images\\f157c8ba-38e5-44d6-b2c8-06ff46a6d53f_noimage.png"
+    },
+    {
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\f3dcb011-3b36-4e86-bcdb-9a294f2e8ea3_noimage.png",
+      "PackagePath": "staticwebassets\\Images\\f3dcb011-3b36-4e86-bcdb-9a294f2e8ea3_noimage.png"
+    },
+    {
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\Images\\noimage.png",
       "PackagePath": "staticwebassets\\Images\\noimage.png"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
       "PackagePath": "staticwebassets\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\opilane\\source\\repos\\CRUD-App-main\\AjaxProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AdvancedAjax.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AjaxProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AdvancedAjax.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AjaxProject.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AdvancedAjax.props",
-      "PackagePath": "build\\AdvancedAjax.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AjaxProject.props",
+      "PackagePath": "build\\AjaxProject.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AdvancedAjax.props",
-      "PackagePath": "buildMultiTargeting\\AdvancedAjax.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AjaxProject.props",
+      "PackagePath": "buildMultiTargeting\\AjaxProject.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AdvancedAjax.props",
-      "PackagePath": "buildTransitive\\AdvancedAjax.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AjaxProject.props",
+      "PackagePath": "buildTransitive\\AjaxProject.props"
     }
   ],
   "ElementsToRemove": []
