@@ -1,145 +1,149 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\",
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\country\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\country\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\city\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\city\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\country\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\country\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\shared\\_createmodaldialog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\shared\\_createmodaldialog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\country\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\country\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\migrations\\20250516095132_addcustomertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\migrations\\20250516095132_addcustomertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:migrations\\20250516095132_addcustomertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\country\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\country\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\migrations\\20250516094216_removeonlinecascade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\migrations\\20250516094216_removeonlinecascade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:migrations\\20250516094216_removeonlinecascade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\city\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\city\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\city\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\city\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\city\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\city\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\migrations\\20250516064313_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\migrations\\20250516064313_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:migrations\\20250516064313_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\country\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\country\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\country\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\city\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\city\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\country\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\country\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\shared\\_createmodaldialog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\shared\\_createmodaldialog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\country\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\country\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\country\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\country\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\city\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\city\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\city\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\city\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\city\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\city\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\country\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\country\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\views\\country\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\views\\country\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:views\\country\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax\\advancedajax\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|c:\\users\\opilane\\source\\repos\\ajax-main\\advancedajax\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1283BA35-9EA0-41E9-AEAD-DB4A873D734E}|AdvancedAjax.csproj|solutionrelative:models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -150,8 +154,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAIwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:51:01.159Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -159,86 +176,152 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "serviceDependencies.json",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Properties\\serviceDependencies.json",
-              "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Properties\\serviceDependencies.json",
-              "RelativeToolTip": "Properties\\serviceDependencies.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-06T08:39:39.33Z",
+              "Title": "20250516095132_AddCustomerTable.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Migrations\\20250516095132_AddCustomerTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250516095132_AddCustomerTable.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Migrations\\20250516095132_AddCustomerTable.cs",
+              "RelativeToolTip": "Migrations\\20250516095132_AddCustomerTable.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:51:32.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-06T08:14:43.935Z",
+              "Title": "20250516094216_RemoveOnlineCascade.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Migrations\\20250516094216_RemoveOnlineCascade.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250516094216_RemoveOnlineCascade.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Migrations\\20250516094216_RemoveOnlineCascade.cs*",
+              "RelativeToolTip": "Migrations\\20250516094216_RemoveOnlineCascade.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:42:16.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250516064313_CreateDb.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Migrations\\20250516064313_CreateDb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250516064313_CreateDb.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Migrations\\20250516064313_CreateDb.cs",
+              "RelativeToolTip": "Migrations\\20250516064313_CreateDb.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:43:14.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:39:19.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Controllers\\CityController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:33:47.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Customer\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Customer\\Create.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Customer\\Create.cshtml",
-              "RelativeToolTip": "Views\\Customer\\Create.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAjwCIAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T09:56:59.258Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CountryController.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Controllers\\CountryController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Controllers\\CountryController.cs",
-              "RelativeToolTip": "Controllers\\CountryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T07:03:09.535Z",
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAwwFIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-16T10:12:13.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_CreateModalForm.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\City\\_CreateModalForm.cshtml",
-              "RelativeDocumentMoniker": "Views\\City\\_CreateModalForm.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\City\\_CreateModalForm.cshtml",
-              "RelativeToolTip": "Views\\City\\_CreateModalForm.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T23:33:23.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\appsettings.json",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-16T06:40:06.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Models\\City.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Models\\City.cs",
+              "RelativeToolTip": "Models\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:32:34.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T07:14:41.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\City\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\City\\Index.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\City\\Index.cshtml",
+              "RelativeToolTip": "Views\\City\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T09:35:06.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Country\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Country\\Create.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Country\\Create.cshtml",
+              "RelativeToolTip": "Views\\Country\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T07:09:16.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Program.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -247,36 +330,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Country\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Country\\Create.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Country\\Create.cshtml",
-              "RelativeToolTip": "Views\\Country\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "_CreateModalForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\City\\_CreateModalForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\City\\_CreateModalForm.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\City\\_CreateModalForm.cshtml",
+              "RelativeToolTip": "Views\\City\\_CreateModalForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T07:09:16.394Z"
+              "WhenOpened": "2025-05-21T23:33:23.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-16T10:12:13.229Z",
-              "EditorCaption": ""
+              "DocumentIndex": 14,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Controllers\\CountryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:03:09.535Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T08:39:39.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAjwCIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T09:56:59.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T08:14:43.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "_CreateModalDialog.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Shared\\_CreateModalDialog.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Shared\\_CreateModalDialog.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_CreateModalDialog.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Shared\\_CreateModalDialog.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Shared\\_CreateModalDialog.cshtml",
               "RelativeToolTip": "Views\\Shared\\_CreateModalDialog.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -284,35 +403,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CityController.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Controllers\\CityController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Controllers\\CityController.cs",
-              "RelativeToolTip": "Controllers\\CityController.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAkwHQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T09:33:47.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "City.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Models\\City.cs",
-              "RelativeDocumentMoniker": "Models\\City.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Models\\City.cs",
-              "RelativeToolTip": "Models\\City.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T06:32:34.616Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Controllers\\CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "Controllers\\CustomerController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAYwDIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -320,23 +415,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAwCYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T07:14:41.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -344,11 +427,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Customer\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Customer\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Customer\\Delete.cshtml",
               "RelativeToolTip": "Views\\Customer\\Delete.cshtml",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAD0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -356,11 +439,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Customer\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Customer\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Customer\\Edit.cshtml",
               "RelativeToolTip": "Views\\Customer\\Edit.cshtml",
               "ViewState": "AgIAAEsAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -368,11 +451,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "_CreateModalForm.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Country\\_CreateModalForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Country\\_CreateModalForm.cshtml",
               "RelativeDocumentMoniker": "Views\\Country\\_CreateModalForm.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Country\\_CreateModalForm.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Country\\_CreateModalForm.cshtml",
               "RelativeToolTip": "Views\\Country\\_CreateModalForm.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -380,11 +463,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Customer\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Customer\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Details.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Customer\\Details.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Customer\\Details.cshtml",
               "RelativeToolTip": "Views\\Customer\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -392,11 +475,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Country\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Country\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Country\\Details.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Country\\Details.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Country\\Details.cshtml",
               "RelativeToolTip": "Views\\Country\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -404,11 +487,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Customer\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Customer\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Customer\\Index.cshtml",
               "RelativeToolTip": "Views\\Customer\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -416,35 +499,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20250516095132_AddCustomerTable.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Migrations\\20250516095132_AddCustomerTable.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250516095132_AddCustomerTable.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Migrations\\20250516095132_AddCustomerTable.cs",
-              "RelativeToolTip": "Migrations\\20250516095132_AddCustomerTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCAAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T09:51:32.366Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\City\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\City\\Index.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\City\\Index.cshtml",
-              "RelativeToolTip": "Views\\City\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T09:35:06.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Models\\Customer.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Models\\Customer.cs",
               "RelativeToolTip": "Models\\Customer.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAA7wC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -452,23 +511,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T06:39:19.551Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\City\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\City\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\City\\Create.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\City\\Create.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\City\\Create.cshtml",
               "RelativeToolTip": "Views\\City\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -476,11 +523,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Country\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Country\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Country\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Country\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Country\\Delete.cshtml",
               "RelativeToolTip": "Views\\Country\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -488,11 +535,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\City\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\City\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\City\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\City\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\City\\Edit.cshtml",
               "RelativeToolTip": "Views\\City\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -500,11 +547,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\City\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\City\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\City\\Details.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\City\\Details.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\City\\Details.cshtml",
               "RelativeToolTip": "Views\\City\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -512,23 +559,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20250516094216_RemoveOnlineCascade.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Migrations\\20250516094216_RemoveOnlineCascade.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250516094216_RemoveOnlineCascade.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Migrations\\20250516094216_RemoveOnlineCascade.cs",
-              "RelativeToolTip": "Migrations\\20250516094216_RemoveOnlineCascade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T09:42:16.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\City\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\City\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\City\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\City\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\City\\Delete.cshtml",
               "RelativeToolTip": "Views\\City\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -536,23 +571,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "20250516064313_CreateDb.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Migrations\\20250516064313_CreateDb.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250516064313_CreateDb.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Migrations\\20250516064313_CreateDb.cs",
-              "RelativeToolTip": "Migrations\\20250516064313_CreateDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T06:43:14.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Country\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Country\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Country\\Index.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Country\\Index.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Country\\Index.cshtml",
               "RelativeToolTip": "Views\\Country\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -560,11 +583,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Country\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Country\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Country\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Views\\Country\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Views\\Country\\Edit.cshtml",
               "RelativeToolTip": "Views\\Country\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -572,11 +595,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Models\\Country.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Models\\Country.cs",
               "RelativeDocumentMoniker": "Models\\Country.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX\\AdvancedAjax\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\AJAX-main\\AdvancedAjax\\Models\\Country.cs",
               "RelativeToolTip": "Models\\Country.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

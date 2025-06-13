@@ -2,23 +2,47 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
-<script type="text/javascript">
+function ShowCountryCreateModal() {
+    $.ajax(
+        {
+            url: "/country/CreateModalForm",
+            type: 'get',
+            success: function (response) {
+                $('#DivCreateDialog').html(response);
+                ShowCreateModalForm();
+            }
+        }
+    );
+    return;
+}
 
-    function FillCities(lstCountryCtrl,lstCityId)
-    {
-                    var lstCities = $("#"+lstCityId);
+function ShowCityCreateModal() {
+    var lstCountryCtrl = document.getElementById('lstCountryId');
+    var countryid = lstCountryCtrl.options[lstCountryCtrl.selectedIndex].value;
+    $.ajax({
+        url: "/city/CreateModalForm?countryid=" + countryid,
+        type: 'get',
+        success: function (response) {
+            $("#DivCreateDialog").html(response);
+            ShowCreateModalForm();
+        }
+    });
+    return;
+}
+
+function FillCities(lstCountryCtrl, lstCityId) {
+    var lstCities = $("#" + lstCityId);
     lstCities.empty();
 
-    lstCities.append($('<option />',
-    {
-        value: null,
-    text: "Select City"
-                       }));
+    lstCities.append($('<option/>',
+        {
+            value: null,
+            text: "Select City"
+        }));
 
     var selectedCountry = lstCountryCtrl.options[lstCountryCtrl.selectedIndex].value;
 
-    if (selectedCountry != null &&	selectedCountry != '')
-    {
+    if (selectedCountry != null && selectedCountry != '') {
         $.getJSON('/Customer/getcitiesbycountry', { countryId: selectedCountry }, function (cities) {
             if (cities != null && !jQuery.isEmptyObject(cities)) {
                 $.each(cities, function (index, city) {
@@ -30,79 +54,62 @@
                 });
             };
         });
-                        }
+    }
     return;
-        }
+}
 
+$(".custom-file-input").on("change", function () {
 
-    $(".custom-file-input").on("change", function () {
-
-                var fileName = $(this).val().split("\\").pop();
+    var fileName = $(this).val().split("\\").pop();
 
     document.getElementById('PreviewPhoto').src = window.URL.createObjectURL(this.files[0]);
 
     document.getElementById('PhotoUrl').value = fileName;
 
-        });
+});
 
-    function ShowCityCreateModal(){
-        var lstCountryCtrl = document.getElementById('lstCountryId');
-    var countryid = lstCountryCtrl.options[lstCountryCtrl.selectedIndex].value;
-
-    $.ajax({
-        url: "/city/CreateModalForm?countyrid=" + countryid,
-    type: 'get',
-    success: function (response) {
-        $("#DivCreateDialog").html(response);
-    ShowCreateModalForm();
-    }
-    });
+function ShowCreateModalForm() {
+    $('#DivCreateDialogHolder').modal('show');
     return;
-    }
+}
 
-    function ShowCreateModalForm() {
-        $("#DivCreateDialogHolder").modal('show');
-    return;
-    }
-
-    function submitModalForm() {
-        var btnSubmit = document.getElementById('btnSubmit');
+function submitModalForm() {
+    var btnSubmit = document.getElementById('btnSubmit');
     btnSubmit.click();
-    }
+}
 
-    function refreshCountryList() {
-        var btnBack = document.getElementById('dupBackBtn');
+function refreshCountryList() {
+    var btnBack = document.getElementById('dupBackBtn');
     btnBack.click();
-    FillCountries("lstCountryid");
-    }
+    FillCountries("lstCountryId");
+}
 
-    function refreshCityList() {
-        var btnBack = document.getElementById('dupBackBtn');
+function refreshCityList() {
+    var btnBack = document.getElementById('dupBackBtn');
     btnBack.click();
     var lstCountryCtrl = document.getElementById('lstCountryId');
     FillCities(lstCountryCtrl, "lstCity");
-        
-    }
+}
 
-
-    function FillCountries(lstCountryId) {
-        var lstCountries = $("#" + lstCountryId);
+function FillCountries(lstCountryId) {
+    var lstCountries = $("#" + lstCountryId);
     lstCountries.empty();
 
-    lstCountries.append($('<option />',
-    {
+    lstCountries.append($('<option/>', {
         value: null,
-    text: "Select Country"
+        text: "Select Country"
     }));
 
     $.getJSON("/country/GetCountries", function (countries) {
         if (countries != null && !jQuery.isEmptyObject(countries)) {
             $.each(countries, function (index, country) {
-                lstCountries.append($('<option/>',
-                    {
-                        value: country.value,
-                        text: country.text
-                    }));
+                lstCountries.append($('<option/>', {
+                    value: country.value,
+                    text: country.text
+                }));
             });
-        };
-    }
+        }
+    });
+
+    return;
+}

@@ -10,17 +10,19 @@ namespace AdvancedAjax.Migrations
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
+
             migrationBuilder.DropForeignKey(
-         name: "FK_Cities_Countries_CountryId",
-         table: "CITIES");
+                name: "FK_Cities_Countries_CountryId",
+                table: "Cities");
 
             migrationBuilder.AddForeignKey(
-                name: "FK_Cities_Countries_CountryId",
+                name: "FK_Cities_Countries_CountyId",
                 table: "CITIES",
                 column: "CountryId",
                 principalTable: "Countries",
                 principalColumn: "Id",
                 onDelete: ReferentialAction.Restrict);
+
         }
 
         /// <inheritdoc />
@@ -32,12 +34,13 @@ namespace AdvancedAjax.Migrations
                 table: "CITIES");
 
             migrationBuilder.AddForeignKey(
-                name: "FK_Cities_Countries_CountryId",
-                table: "CITIES",
-                column: "CountryId",
-                principalTable: "Countries",
-                principalColumn: "Id",
-                onDelete: ReferentialAction.Cascade);
+            name: "FK_Cities_Countries_CountryId",
+            table: "CITIES",
+            column: "CountryId",
+            principalTable: "Countries",
+            principalColumn: "Id",
+            onDelete: ReferentialAction.Cascade);
+
         }
     }
 }
